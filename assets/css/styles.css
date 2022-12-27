@@ -138,12 +138,13 @@ footer {
 }
 
 
-@media (min-width: 560px) {
+@media (min-width: 860px) {
     footer {
         display: block;
         color: rgba(0, 0, 0, .4);
-        font-size: 14px;
+        font-size: 12px;
         line-height: 5px;
         text-align: center;
+        min-height: 50px;
     }
 }
