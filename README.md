@@ -33,7 +33,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -53,10 +52,9 @@ A simple counter app to count the number of any object, or score you want to kee
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can use the buttons '+', '-' and 'reset' in order to increase, decrease and reset the count.
-Alternatively you can respectively use the keyboard keys 'ArrowUp', 'ArrowDown' and 'Esc'.
+You can use the buttons **+**, **-** and **reset** in order to increase, decrease and reset the count.
+Alternatively you can respectively use the keyboard keys **ArrowUp**, **ArrowDown** and **Esc**.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,22 +81,13 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Ilaria Bertoldi - [@linkedin_handle](https://www.linkedin.com/in/ilaria-bertoldi-837a20176/)
+Ilaria Bertoldi - [Linkedin](https://www.linkedin.com/in/ilaria-bertoldi-837a20176/)
 
 Project Link: [https://github.com/kilar95/Counter-App](https://github.com/kilar95/Counter-App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
