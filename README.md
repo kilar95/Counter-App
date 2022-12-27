@@ -52,7 +52,7 @@ A simple counter app to count the number of any object, or score you want to kee
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can use the buttons **+**, **-** and **reset** in order to increase, decrease and reset the count.
+You can use the buttons **+**/**-** and **reset** in order to increase, decrease and reset the count.
 Alternatively you can respectively use the keyboard keys **ArrowUp**, **ArrowDown** and **Esc**.
 
 
@@ -83,7 +83,7 @@ Don't forget to give the project a star! Thanks again!
 
 Ilaria Bertoldi - [Linkedin](https://www.linkedin.com/in/ilaria-bertoldi-837a20176/)
 
-Project Link: [https://github.com/kilar95/Counter-App](https://github.com/kilar95/Counter-App)
+Project Link: [https://online-counter-app.netlify.app/](https://online-counter-app.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
