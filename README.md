@@ -13,7 +13,7 @@
     <a href="https://github.com/kilar95/Counter-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kilar95/Counter-App">View Demo</a>
+    <a href="https://online-counter-app.netlify.app">View Project</a>
     ·
     <a href="https://github.com/kilar95/Counter-App/issues">Report Bug</a>
     ·
