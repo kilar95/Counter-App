@@ -1,0 +1,112 @@
+*,
+*::before,
+*::after {
+   box-sizing: border-box;
+   font-family: 'Courier New', Courier, monospace
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+    min-height: 100vh; 
+    width: 100vw; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+
+    background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+h1 {
+    margin: 0;
+    font-size: calc(2.9rem + 1.5vw);
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+
+
+.outer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    height: min(40rem, 80vh);
+    width: min(28rem, 80vw);
+
+    background-color: rgba(255,255,255, .6);
+    border-radius: 3rem;
+    border: 2px solid black;
+    padding: 4rem 3rem;
+    margin: 2rem 1.5rem;
+
+
+}
+
+
+.display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: min(14rem, 27vh);
+    width: min(20rem, 60vw);
+    margin-block: 3rem;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 2rem;
+
+    font-size: 8rem;
+    font-weight: 500;
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    column-gap: min(2rem, 5vw);
+    margin-bottom: 1.5rem;
+}
+
+
+
+.buttons > button {
+    cursor: pointer;
+    padding: min(1.7rem, 5vw);
+    border-radius: 1rem;
+    font-weight: bold;
+    font-size: min(1.5rem, 4vw);
+}
+
+.increase {
+    background-color: rgba(65, 212, 59, .8);
+    
+}
+
+.decrease {
+    background-color: rgba(197, 78, 58, .8);
+}
+
+.reset {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+footer {
+    display: none;
+}
+
+
+@media (min-width: 560px) {
+    footer {
+        display: block;
+        color: rgba(0, 0, 0, .4);
+        font-size: 14px;
+        line-height: 5px;
+        text-align: center;
+    } 
+}
