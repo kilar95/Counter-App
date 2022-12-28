@@ -10,8 +10,6 @@
   <p align="center">
     Use the counter to count the number of any object, money, score, inventory or item you want.
     <br />
-    <a href="https://github.com/kilar95/Counter-App"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://online-counter-app.netlify.app">View Project</a>
     ·
